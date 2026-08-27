@@ -1,6 +1,6 @@
 # Logistics Data Analysis & Route Optimization
 
-## 📌 Project Overview
+## Project Overview
 
 This project explores how data science and machine learning can be applied to improve e-commerce logistics operations.
 
@@ -10,7 +10,7 @@ The analysis uses Python-based data science techniques to transform raw logistic
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project are:
 
@@ -40,7 +40,7 @@ The following KPIs will be used to evaluate logistics performance:
 
 ---
 
-## 🗃️ Dataset
+## Dataset
 
 This project uses the **Brazilian E-Commerce Public Dataset by Olist**.
 
@@ -65,7 +65,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 The project follows an end-to-end data science workflow:
 
