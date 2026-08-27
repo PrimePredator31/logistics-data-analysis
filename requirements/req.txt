@@ -1,1 +1,65 @@
+Data Science Techniques
+1. Exploratory Data Analysis
 
+Exploratory analysis will be used to investigate:
+
+Delivery time distributions
+Late delivery patterns
+Freight cost
+Regional performance
+Order trends
+Customer review scores
+Relationships between logistics variables
+2. Predictive Modelling
+
+Machine learning will be used to estimate whether an order is likely to be delivered late.
+
+Possible input features include:
+
+Freight cost
+Delivery distance
+Product characteristics
+Seller location
+Customer location
+Order timing
+Historical delivery information
+
+Initial models will include interpretable baseline approaches such as Logistic Regression.
+
+3. Clustering
+
+Clustering techniques such as K-Means will be used to identify groups of customers or regions with similar logistics characteristics.
+
+Possible clusters may include:
+
+High-volume customers
+Long-distance customers
+Low-cost delivery regions
+High-delay regions
+4. Route Optimization
+
+A vehicle routing optimization model will be explored using Google OR-Tools.
+
+The objective will be to investigate how delivery routes can be planned to reduce:
+
+Total travel distance
+Transportation cost
+Delivery delays
+
+Subject to constraints such as:
+
+Vehicle capacity
+Delivery locations
+Route duration
+Delivery time windows where applicable
+🛠️ Technologies
+
+The project will use:
+
+Python
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+Jupyter Notebook
+Google OR-Tools
